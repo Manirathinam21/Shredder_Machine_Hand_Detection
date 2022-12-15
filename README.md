@@ -4,7 +4,8 @@ it's a AI program will raise a alarm and shut down the machine, when hand is det
 
 ## How to run app?
 ### 1. Clone the repository
-### 2. Install requirements.txt 
-### 3. In alertcheck.py file give the path of alert.wav file in playsound line.
-### 4. Run the hand_detection.py file
+### 2. Create a conda env with python=3.7
+### 3. Install requirements.txt 
+### 4. In alertcheck.py file give the path of alert.wav file in playsound line.
+### 5. Run the hand_detection.py file
 <br/><br/>
